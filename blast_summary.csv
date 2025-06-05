@@ -1,0 +1,11 @@
+Hit Number,Accession,E-value,Bit Score,Alignment Length,Hit Description
+1,NM_000546,0.00e+00,4531.35,2512,"Homo sapiens tumor protein p53 (TP53), transcript variant 1, mRNA >gi|1889514023|ref|NM_001276760.3| Homo sapiens tumor protein p53 (TP53), transcript variant 1, mRNA"
+2,HG975427,0.00e+00,4531.35,2586,TPA: Homo sapiens Processed transcript p53-mRNA (p53 gene)
+3,NM_001276761,0.00e+00,4516.02,2509,"Homo sapiens tumor protein p53 (TP53), transcript variant 2, mRNA >gi|1894803099|ref|NM_001126112.3| Homo sapiens tumor protein p53 (TP53), transcript variant 2, mRNA"
+4,AF307851,0.00e+00,4492.58,2521,"Homo sapiens p53 protein mRNA, complete cds"
+5,BC003596,0.00e+00,4474.54,2508,"Homo sapiens tumor protein p53, mRNA (cDNA clone MGC:646 IMAGE:3544714), complete cds"
+6,XM_001172077,0.00e+00,4462.82,2537,"PREDICTED: Pan troglodytes tumor protein p53 (TP53), transcript variant X2, mRNA"
+7,XM_004058511,0.00e+00,4459.21,2529,"PREDICTED: Gorilla gorilla gorilla tumor protein p53 (TP53), transcript variant X2, mRNA"
+8,XM_003810066,0.00e+00,4443.89,2555,"PREDICTED: Pan paniscus tumor protein p53 (TP53), transcript variant X2, mRNA"
+9,DQ191317,0.00e+00,4434.87,2584,"Homo sapiens p53 protein (TP53) mRNA, complete cds, alternatively spliced"
+10,FJ207420,0.00e+00,4425.85,2513,"Homo sapiens mutant p53 mRNA, complete cds"
