@@ -6,19 +6,19 @@ I used the human **TP53 (tumor protein p53)** gene as input, sent the sequence t
 
 ---
 
-## 🧬 Overview
+##  Overview
 
 | Task | Description                                                                                        |
 |------|----------------------------------------------------------------------------------------------------|
-| ✅ Query | BLASTN query of TP53 sequence using Biopython                                                      |
-| ✅ Output | 'blast_result.xml' (raw BLAST), 'blast_summary.csv'(top 10 hits), 'blast_plot.png' (visualization) |
-| ✅ Parsing | Extracted accession, hit info, e-value, bit score                                                  |
-| ✅ Visualization | Bar chart of top 10 hits                                                                           |
-| ✅ Export | Summary table to CSV file                                                                          |
+|  Query | BLASTN query of TP53 sequence using Biopython                                                      |
+|  Output | 'blast_result.xml' (raw BLAST), 'blast_summary.csv'(top 10 hits), 'blast_plot.png' (visualization) |
+|  Parsing | Extracted accession, hit info, e-value, bit score                                                  |
+|  Visualization | Bar chart of top 10 hits                                                                           |
+|  Export | Summary table to CSV file                                                                          |
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python 3.11
 - Biopython
@@ -41,7 +41,7 @@ I used the human **TP53 (tumor protein p53)** gene as input, sent the sequence t
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. **Install required packages**:
 ```bash
