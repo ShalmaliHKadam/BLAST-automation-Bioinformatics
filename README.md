@@ -28,7 +28,7 @@ I used the human **TP53 (tumor protein p53)** gene as input, sent the sequence t
 
 ---
 
-## 📂 Files in This Project
+##  Files in This Project
 
 | File | Description |
 |------|-------------|
