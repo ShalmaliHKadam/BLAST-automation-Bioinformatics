@@ -1,4 +1,4 @@
-# 🔍 Automated BLASTN Search & Visualization | TP53 Gene
+#  Automated BLASTN Search & Visualization | TP53 Gene
 
 This project demonstrates how to automate an NCBI BLASTN query using **Python** and **Biopython**, then parse, visualize, and export the top results.
 
